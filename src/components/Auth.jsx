@@ -40,7 +40,7 @@ export const SignOut = (props) =>
   } 
 
   return (
-    <div><button onClick={signUserOut} >Sign Out</button></div>
+    <div><button onClick={signUserOut} > Sign Out </button></div>
   )
 
 }

@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react'
 import "./style.css"
 import { Canvas } from '@react-three/fiber'
-import Experience from './Experience.jsx'
+import Experience from './fruitexp/Experience.jsx'
 import {Auth, cookies, SignOut} from './components/Auth.jsx'
 import { Chat } from './components/Chat.jsx'
 // import { SignOut } from './components/SignOut.jsx'
